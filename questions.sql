@@ -1,4 +1,4 @@
--- Skills Used : Aggregate functions, DDL Commands like alter, Joins, CASE Function, 
+-- Skills Used : Aggregate functions, DDL Commands, Joins, CASE Function, 
 
 
 -- 1 Show total number of customers

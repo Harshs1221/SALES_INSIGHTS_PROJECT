@@ -1,3 +1,6 @@
+-- Skills Used : Aggregate functions, DDL Commands like alter, Joins, CASE Function, 
+
+
 -- 1 Show total number of customers
 select count(customer_code)
 from customers;
